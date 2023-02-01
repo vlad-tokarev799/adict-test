@@ -1,0 +1,12 @@
+.title {
+  @media (max-width: 1200px) {
+    color: #fff;
+    filter: blur(10px);
+  }
+}
+
+.item {
+  @media (max-width: 1200px) {
+    box-sizing: border-box;
+  }
+}
